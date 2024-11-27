@@ -1,0 +1,9 @@
+Planning
+
+- Make a function that a random round figure value between 0-2;
+- Assign the values to Rock, paper and Scirrors;
+- Make conditions of what wins against what i.e Paper is always going to over power rock, rock is always going to over power Scirrors, and Scirrors is always going to over power paper.
+- Take input from user via alert 
+- Get the random value from computer result function and compare with user input and decide the result.
+
+
