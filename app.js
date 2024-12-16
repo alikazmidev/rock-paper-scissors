@@ -63,13 +63,13 @@ function playRound(humanChoice, computerChoice) {
  }
 }
 
-for (let i = 0; i < 5; i++) {
+// for (let i = 0; i < 5; i++) {
     
-    let userChoice = getHumanChoice();
-    let computerChoice = getComputerChoice();
+//     let userChoice = getHumanChoice();
+//     let computerChoice = getComputerChoice();
 
-    playRound(userChoice, computerChoice)
-}
+//     playRound(userChoice, computerChoice)
+// }
 
 
 console.log(`Your Score ${humanScore}`)
